@@ -4,9 +4,8 @@
 
 # 2. Sua jornada na tecnologia
 
-### Em junho de 2021 comecei na Puc Minas o curso de sistemas de informações, durante esse periodo tenho vivenciado varios projeto. Nós
-### quais tive contato com desenvolvimento de front-end, back-end, analise de dados, ciencia de dados entre outros,
-### projetos prticos que tenho aprendido muinto.
+### Em junho de 2021 comecei na Puc Minas o curso de sistemas de informações, durante esse periodo tenho vivenciado varios projeto.
+### Nos quais tive contato com desenvolvimento de front-end, back-end, analise de dados, ciencia de dados entre outros, projetos prticos que tenho aprendido muinto.
 # 3. Habilidades e experiências
 ## tenho boa pratica em projetos em grupos, tenho um pouco der facilidade em analise de dados e desenvolvimento back-end
 
