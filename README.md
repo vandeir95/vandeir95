@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Eu sou Vandeir de Souza Cruz é um jovem de 22 anos, residente em Belo Horizonte, Minas Gerais. Ele é estudante do curso de Sistemas de Informação na PUC Minas e possui uma forte paixão por programação.</p>
+<p align="left">Eu sou Vandeir de Souza Cruz tenho 22 anos, sou residente em Belo Horizonte, Minas Gerais. Sou estudante do curso de Sistemas de Informação na PUC Minas e tenho   uma forte paixão por programação.</p>
 
 ###
 
